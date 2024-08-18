@@ -10,7 +10,7 @@ license = "MIT"
 name = "anchor_i11n"
 
 [dependencies] 
-anchor-lang = "^0.29.0"
+anchor-lang = "^0.30.1"
 anchor-i11n-derive = { version = "0.1.0", path= "../anchor-i11n-derive" }
 
 [dev-dependencies]
